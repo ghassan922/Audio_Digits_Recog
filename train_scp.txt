@@ -1,0 +1,11 @@
+C:\digitRec\wav\0_00.mfc
+C:\digitRec\wav\0_01.mfc
+C:\digitRec\wav\0_02.mfc
+C:\digitRec\wav\0_03.mfc
+C:\digitRec\wav\0_04.mfc
+C:\digitRec\wav\0_05.mfc
+C:\digitRec\wav\0_06.mfc
+C:\digitRec\wav\0_07.mfc
+C:\digitRec\wav\0_08.mfc
+C:\digitRec\wav\0_09.mfc
+C:\digitRec\wav\0_10.mfc
